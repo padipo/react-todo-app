@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: todo
-        image: medineshkatwal/todo:2
+        image: medineshkatwal/todo:version
         ports:
         - containerPort: 80
 ---
